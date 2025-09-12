@@ -5,7 +5,7 @@ It supports **automatic** and **manual modes** with cooling/heating overrides.
 
 ---
 
-## 🔧 Features
+## 🔧 Features 
 - ✅ Automatic cooling when temperature > 28 °C
 - ✅ Automatic heating when temperature < 24 °C
 - ✅ Manual override buttons for cooling and heating
