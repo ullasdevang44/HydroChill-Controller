@@ -5,7 +5,7 @@
 #include <DallasTemperature.h>
 
 // OLED config
-#define SCREEN_WIDTH 128
+#define SCREEN_WIDTH 128 
 #define SCREEN_HEIGHT 64
 #define OLED_RESET   -1
 
